@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
-          You can edit your file here. Hello here superb work
+          This is sample react project and You can edit here
         </p>
         <a
           className="App-link"
